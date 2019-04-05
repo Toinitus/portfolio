@@ -15,3 +15,13 @@ Par la suite j'ai travailler en tant que service civique au collége de Doyet du
 Ensuite j'ai démarrer une formation Développer  Web et Web mobile a l'aformac de Montluçon.
 
 coordonnées : antoinego96@orange.fr / 06 74 08 10 44 / 17 rue camille claudel 03100 Montluçon.
+
+Voici les test des croquis que j'ai réaliser:
+
+![Premier essaie](assets/img/faux1.jpg "Premier essaie croquis")
+
+![Deuxieme essaie](assets/img/faux2.jpg "Deuxieme essaie croquis")
+
+![Troisieme essaie](assets/img/vrais1.jpg "Réecriture du croquis partie 1")
+
+![Quatrieme essaie](assets/img/vrais2.jpg "Réecriture du croquis partie 2")
